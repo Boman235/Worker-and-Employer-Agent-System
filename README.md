@@ -36,7 +36,7 @@ OOP Principles Applied
 Technologies Used
 
 - Java
-- Jav
+- Javafx
 - Object-Oriented Programming Principles
 
  Contact
